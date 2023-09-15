@@ -1,3 +1,7 @@
+## 個人開発
+https://yakuran.notion.site/Yakuran-f3e102528a1d468994e5db69aeac8279
+
+## プロフィール
 [ ![yakitama5](https://komarev.com/ghpvc/?username=miwashutaro0611)
 ](https://github.com/yakitama5/yakitama5/)
 [![](https://img.shields.io/github/followers/yakitama5?label=follow&logo=github&style=flat)
@@ -7,8 +11,8 @@
 [![](https://qiita-badge.apiapi.app/s/yakuran1/contributions.svg)
 ](http://qiita.com/yakuran1)
 [![]()]()
-[![](https://zenn.badge.nikaera.com/s/jackmiwamiwa/articles?style=plastic)](https://zenn.dev/yakuran1/articles)
-[![](https://zenn.badge.nikaera.com/s/jackmiwamiwa/likes?style=plastic)](https://zenn.dev/yakuran1)
+[![](https://zenn.badge.nikaera.com/s/yakuran1/articles?style=plastic)](https://zenn.dev/yakuran1/articles)
+[![](https://zenn.badge.nikaera.com/s/yakuran1/likes?style=plastic)](https://zenn.dev/yakuran1)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakitama5&theme=github)
 
